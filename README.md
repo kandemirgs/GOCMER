@@ -1,6 +1,6 @@
-# GOCMER
+# MERGOC
 
-Türkiye’deki Üniversitelerde Göç Başlığı Altında Kurulan Merkezlerin İncelenmesi ve GÖÇMER için Öneri Taslağı
+Türkiye’deki Üniversitelerde Göç Başlığı Altında Kurulan Merkezlerin İncelenmesi ve MERGOC için Öneri Taslağı
 
  
 Görsel 1: Göç Merkezi olan Üniversiteler 1  https://drive.google.com/file/d/1sB3HvLUn5LjmsYqWoxdx-5wpfl5jWbBK/view?usp=sharing
